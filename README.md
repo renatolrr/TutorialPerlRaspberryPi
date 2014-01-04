@@ -11,7 +11,7 @@ Pasamos a ver módulos específicos para Raspberry Pi escritos en perl.
 Y para terminar instalamos un framework, Catalyst.
 
 Presentación:
-	Es un proyecto paralelo de una presentación utilizando impress.js, que se puede utilizar para la presentación del tutorial.
+	Es un proyecto paralelo utilizando impress.js, que se puede utilizar para la presentación del tutorial.
 
 
 Proyecto final para el curso:
